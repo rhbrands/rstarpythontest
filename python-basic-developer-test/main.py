@@ -88,7 +88,7 @@ def save_to_postgres(freq):
     cur.close()
     conn.close()
 
-save_to_postgres(frequency)
+# save_to_postgres(frequency) 
 
 # RECURSIVE SEARCH
 
